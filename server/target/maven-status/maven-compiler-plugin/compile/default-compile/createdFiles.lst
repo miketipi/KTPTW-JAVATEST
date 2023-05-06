@@ -1,0 +1,5 @@
+backend\models\User.class
+backend\controllers\HomeController.class
+backend\ElectronicwebstoreApplication.class
+backend\models\Product.class
+backend\models\Comments.class
